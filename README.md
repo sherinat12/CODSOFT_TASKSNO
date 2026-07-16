@@ -12,7 +12,7 @@ A simple command-line To-Do List manager built with Python.
 - Delete a task 
 - Tasks are saved automatically to `tasks.json`
 
-## How to Run
+## How to Run 
 1. Make sure Python is installed.
 2. Open a terminal in the project folder.
 3. Run:
