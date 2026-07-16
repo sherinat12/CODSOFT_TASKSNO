@@ -9,7 +9,7 @@ A simple command-line To-Do List manager built with Python.
 - Add a new task
 - Update an existing task
 - Mark a task as complete  
-- Delete a task
+- Delete a task 
 - Tasks are saved automatically to `tasks.json`
 
 ## How to Run
