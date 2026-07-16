@@ -7,7 +7,7 @@ A simple command-line To-Do List manager built with Python.
 ## Features
 - View all tasks
 - Add a new task
-- Update an existing task
+- Update an existing task 
 - Mark a task as complete  
 - Delete a task 
 - Tasks are saved automatically to `tasks.json`
