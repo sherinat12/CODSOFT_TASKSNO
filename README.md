@@ -1,29 +1,44 @@
 # CODSOFT_TASKSNO
 
-# To-Do List App (Python)
+# Python Projects
 
-A simple command-line To-Do List manager built with Python.
+## 1. To-Do List App
 
-## Features
-- View all tasks
-- Add a new task
-- Update an existing task  
-- Mark a task as complete  
-- Delete a task 
-- Tasks are saved automatically to `tasks.json`
+A simple command-line To-Do List application built with Python.
 
-## How to Run 
-1. Make sure Python is installed.
-2. Open a terminal in the project folder.
-3. Run:
-   ```
-   python todo_list.py
-   ```
-4. Follow the on-screen menu (choose options 1–6).
+### Features
+- Add tasks
+- View tasks
+- Update tasks
+- Mark tasks as completed
+- Delete tasks
+- Auto-save using `tasks.json`
 
-## Files
-- `todo_list.py` — main application code
-- `tasks.json` — auto-generated file that stores your tasks
+**Run:**
+```bash
+python todo_list.py
+```
+
+---
+
+## 2. Calculator App
+
+A simple command-line calculator built with Python.
+
+### Features
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Handles invalid input
+- Prevents division by zero
+
+**Run:**
+```bash
+python calculator.py
+```
+
+---
 
 ## Requirements
-- Python 3.x 
+- Python 3.x
