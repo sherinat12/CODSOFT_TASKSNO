@@ -3,18 +3,14 @@
 # Python Projects
 
 ## 1. To-Do List App
-
-A simple command-line To-Do List application built with Python.
+A simple command-line To-Do List application.
 
 ### Features
-- Add tasks
-- View tasks
-- Update tasks
+- Add, View, Update, Delete tasks
 - Mark tasks as completed
-- Delete tasks
 - Auto-save using `tasks.json`
 
-**Run:**
+**Run**
 ```bash
 python todo_list.py
 ```
@@ -22,20 +18,34 @@ python todo_list.py
 ---
 
 ## 2. Calculator App
-
-A simple command-line calculator built with Python.
+A simple command-line calculator.
 
 ### Features
 - Addition (+)
 - Subtraction (-)
 - Multiplication (*)
 - Division (/)
-- Handles invalid input
-- Prevents division by zero
+- Input validation
+- Division by zero handling
 
-**Run:**
+**Run**
 ```bash
 python calculator.py
+```
+
+---
+
+## 3. Password Generator
+A simple Python application to generate secure random passwords.
+
+### Features
+- Generate strong passwords
+- Custom password length
+- Uses letters, numbers, and symbols
+
+**Run**
+```bash
+python password_generator.py
 ```
 
 ---
