@@ -15,7 +15,7 @@ A simple command-line To-Do List application.
 python todo_list.py
 ```
 
----
+--- 
 
 ## 2. Calculator App
 A simple command-line calculator.
