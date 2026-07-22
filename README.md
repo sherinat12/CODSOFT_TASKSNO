@@ -9,7 +9,7 @@ A simple command-line To-Do List application.
 - Add, View, Update, Delete tasks 
 - Mark tasks as completed
 - Auto-save using `tasks.json` 
-
+ 
 **Run**
 ```bash
 python todo_list.py
