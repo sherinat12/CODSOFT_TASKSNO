@@ -8,7 +8,7 @@ A simple command-line To-Do List application.
 ### Features 
 - Add, View, Update, Delete tasks
 - Mark tasks as completed
-- Auto-save using `tasks.json`
+- Auto-save using `tasks.json` 
 
 **Run**
 ```bash
