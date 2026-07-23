@@ -4,7 +4,7 @@
  
 ## 1. To-Do List App 
 A simple command-line To-Do List application.
- 
+  
 ### Features 
 - Add, View, Update, Delete tasks
 - Mark tasks as completed 
