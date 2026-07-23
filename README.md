@@ -60,7 +60,7 @@ A simple command-line Rock Paper Scissors game where the user plays against the 
 - Input validation
 - Play multiple rounds
 
-**Run**
+**Run** 
 ```bash
 python rock_paper_scissors.py
 ```
