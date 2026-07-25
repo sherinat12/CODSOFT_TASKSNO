@@ -1,13 +1,13 @@
 # CODSOFT_TASKSNO
 
 # Python Projects
- 
-## 1. To-Do List App 
+
+## 1. To-Do List App
 A simple command-line To-Do List application.
-  
-### Features 
-- Add, View, Update, Delete tasks 
-- Mark tasks as completed 
+
+### Features
+- Add, View, Update, Delete tasks
+- Mark tasks as completed
 - Auto-save using `tasks.json`
 
 **Run**
@@ -60,9 +60,27 @@ A simple command-line Rock Paper Scissors game where the user plays against the 
 - Input validation
 - Play multiple rounds
 
-**Run** 
+**Run**
 ```bash
 python rock_paper_scissors.py
+```
+
+---
+
+## 5. Contact Book
+A simple command-line Contact Book application to manage contacts.
+
+### Features
+- Add new contacts
+- View all contacts
+- Search contacts by name
+- Update contact details
+- Delete contacts
+- Auto-save using `contacts.json`
+
+**Run**
+```bash
+python contact_book.py
 ```
 
 ---
