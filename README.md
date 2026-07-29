@@ -46,7 +46,7 @@ A simple Python application to generate secure random passwords.
 **Run**
 ```bash
 python password_generator.py
-```
+``` 
 
 ---
 
