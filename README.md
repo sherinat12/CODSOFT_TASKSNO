@@ -11,7 +11,7 @@ A simple command-line To-Do List application.
 - Auto-save using `tasks.json` 
  
 **Run**
-```bash
+```bash 
 python todo_list.py
 ```
 
