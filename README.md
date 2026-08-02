@@ -1,6 +1,4 @@
 # CODSOFT_TASKSNO
-
-# Python Projects 
  
 ## 1. To-Do List App  
 A simple command-line To-Do List application.
