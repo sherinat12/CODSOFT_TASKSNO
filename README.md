@@ -11,7 +11,7 @@ A simple command-line To-Do List application.
 **Run** 
 ```bash 
 python todo_list.py
-```
+``` 
 
 --- 
 
